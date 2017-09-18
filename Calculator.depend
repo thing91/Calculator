@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1505626850 source:c:\users\krzysiek\desktop\c++\tut1\testy\operations.cpp
+	"Operations.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1505717825 c:\users\krzysiek\desktop\c++\tut1\testy\operations.h
+	<iostream>
+	<string>
+
+1505717791 source:c:\users\krzysiek\desktop\c++\tut1\testy\main.cpp
+	"Operations.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+
+1505717791 source:c:\users\krzysiek\documents\github\calculator\main.cpp
+	"Operations.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+
+1505717825 c:\users\krzysiek\documents\github\calculator\operations.h
+	<iostream>
+	<string>
+
+1505717923 source:c:\users\krzysiek\documents\github\calculator\operations.cpp
+	"Operations.h"
+	<iostream>
+	<string>
+	<iomanip>
+
